@@ -1,6 +1,6 @@
 # Gearset demo repository - source org
 
-> Important: this repository has been designed to be used in conjunction with our [onboarding documents])https://docs.gearset.com/en)
+> Important: this repository has been designed to be used in conjunction with our [onboarding documents](https://docs.gearset.com/en)
 
 This repository contains sample metadata that you will use during Gearset's onboarding documents to explore what you can do with the Gearset app.
 
